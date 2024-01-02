@@ -1,0 +1,107 @@
+body {
+    background-color: #f0f2f5;
+}
+
+.main {
+    margin: 0 auto;
+    padding: 20px 0;
+    width: 980px;
+    /* border: 1px solid black; */
+
+}
+
+.container {
+    display: inline-block;
+    margin-top: 100px;
+    padding: 0;
+    /* border: 1px solid black; */
+
+}
+
+.heading {
+    font-size: 45px;
+    margin: 0;
+    /* border: 1px solid black; */
+    color: #1877f2;
+    text-shadow: 0px 0px 1px #0000a8;
+}
+
+.paragraph {
+    /* border: 1px solid black; */
+
+    margin-top: 0px;
+    width: 425px;
+    font-size: 26px;
+}
+
+.form {
+    /* border: 1px solid black; */
+    display: inline-block;
+    margin: -200px 0px 0px 460px;
+    width: 355px;
+
+}
+
+.cfitems {
+    display: block;
+    margin: 0px auto;
+    padding: 13px 4px;
+    width: 290px;
+    margin-top: 12px;
+    border-radius: 8px;
+    border: 1px solid #dddfe2;
+}
+
+form {
+    padding: 18px;
+    background-color: white;
+    box-shadow: 1px 1px 15px #6b6f7687;
+    border-radius: 12px;
+}
+
+.login {
+    background-color: #1877f2;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.lf {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 6px;
+}
+
+.create {
+    width: 180px;
+    background-color: #42b72a;
+    color: white;
+    font-weight: bold;
+}
+
+.pera {
+    text-align: center;
+    font-size: 14px;
+}
+
+.peraA {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: #0559c6e8;
+    transition: 0.2s;
+}
+
+.hover:hover{
+    background-color: #399227;
+    transition: 0.5s;
+}
+
+.linkA{
+    text-decoration: none;
+    color: white;
+}
