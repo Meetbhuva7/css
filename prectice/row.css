@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main-1{
+    background-image: url(./img/martin-jernberg-nE2gf1scItI-unsplash.jpg);
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(10, 7, 7, 0.568);
+}
+
+.peregraph{
+     font-size: 26px;
+     color: aliceblue;
+     display: flex;
+     padding-top: 10%;
+     gap: 14px;
+     
+}
+
+.p-1{
+   border: 4px solid rgb(255 186 10);
+ margin-left: 10px;
+ text-align: center;
+}
+
+.p-2{
+    border: 4px dotted rgb(255 186 10);
+    text-align: center;
+ }
+
+ .p-3{
+    border: 4px dashed rgb(255 186 10);
+    margin-right: 10px;
+    text-align: center;
+ }
+
+ .main-2{
+    background-image: url(./img/ming-han-low-5UjoDKlGETs-unsplash.jpg);
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(10, 7, 7, 0.568);
+}
+
+.peregraph-1{
+     font-size: 26px;
+     color: aliceblue;
+     display: flex;
+     padding-top: 10%;
+     gap: 14px;
+     
+}
+
+.pg-1{
+   border: 4px solid black;
+ margin-left: 10px;
+ text-align: center;
+}
+
+.pg-2{
+    border: 4px dotted black;
+    text-align: center;
+ }
+
+ .pg-3{
+    border: 4px dashed black;
+    margin-right: 10px;
+    text-align: center;
+ }
+
+ .main-3{
+    background-image: url(./img/prateek-jaiswal-WigH_YWD2Z8-unsplash.jpg);
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(10, 7, 7, 0.568);
+}
+
+.peregraph-2{
+     font-size: 26px;
+     color: rgb(255, 0, 0);
+     display: flex;
+     padding-top: 10%;
+     gap: 14px;
+     
+}
+
+.pre-1{
+   border: 4px solid black;
+ margin-left: 10px;
+ text-align: center;
+}
+
+.pre-2{
+    border: 4px dotted black;
+    text-align: center;
+ }
+
+.pre-3{
+    border: 4px dashed black;
+    margin-right: 10px;
+    text-align: center;
+ }
