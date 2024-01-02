@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: rgb(43, 63, 71);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.logo-img{
+    /* background-color: rgb(92, 89, 89); */
+    height: 100px;
+}
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    text-decoration: none;
+    gap: 80px;
+    align-items: center;
+    
+}
+
+.menu-item a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    position: relative;
+    right: 440px;
+}
+
+body{
+    background-image: url(./img-about/bg-img5.jpeg);
+    width: 100%;
+    height: 900px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: hue;
+    background-color: rgba(0, 0, 0, 0.509);
+    display: block;
+    display: flex;
+    flex-direction: column;
+}
+.contect{
+    position: relative;
+}
+.contect h1{
+    position: absolute;
+    top: 400px;
+    left: 400px;
+    font-size: 80px;
+    color: #f7c20d;
+}
+.contect p{
+    position: absolute;
+    top: 500px;
+    left: 400px;
+    font-size: 25px;
+    color: #b8aaac;
+    line-height: 30px;
+}
+.sub input{
+    position: absolute;
+    background: transparent;
+    border: 4px solid gray;
+    top: 420px;
+    left: 950px;
+    width: 450px;
+    height: 50px;
+}
+
+.sub input::placeholder{
+    font-size: 22px;
+    color: #b8aaac;
+    padding-left: 18px;
+}
+.sub-2 input{
+    position: absolute;
+    background: transparent;
+    border: 4px solid gray;
+    top: 500px;
+    left: 950px;
+    width: 450px;
+    height: 50px;
+}
+
+.sub-2 input::placeholder{
+    font-size: 22px;
+    color: #b8aaac;
+    padding-left: 18px;
+}
+
+.sub textarea{
+    position: absolute;
+    left: 950px;
+    top: 580px;
+    background: transparent;
+    border: 4px solid gray;
+}
+.sub textarea::placeholder{
+    font-size: 22px;
+    color: #b8aaac;
+    padding-left: 18px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.submit{
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    background-color:#f7c20d ;
+    text-align: center;
+    left: 49.5%;
+    top: 750px;
+}
+.submit h2{
+    padding-top: 5px;
+    font-weight: lighter;
+}

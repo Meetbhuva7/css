@@ -1,0 +1,89 @@
+@media only screen and (max-width: 1024px) {
+    .contect {
+        position: relative;
+    }
+
+    .contect h1 {
+        font-size: 58px;
+        position: absolute;
+        left: 20px;
+
+    }
+
+    .contect p {
+        position: absolute;
+        left: 40px;
+
+    }
+
+    .sub input {
+        position: absolute;
+        left: 520px;
+        width: 420px;
+        height: 42px;
+    }
+
+    .sub-2 input {
+        position: absolute;
+        left: 520px;
+        width: 420px;
+        height: 42px;
+    }
+
+    .sub textarea {
+        position: absolute;
+        left: 520px;
+        width: 420px;
+
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    .menu {
+        gap: 60px;
+    }
+
+    .menu-item a {
+        position: relative;
+        right: 160px;
+
+    }
+
+    .contect h1 {
+        font-size: 48px;
+        position: absolute;
+        left: 18px;
+    }
+
+    .contect p {
+        position: absolute;
+        left: 30px;
+        font-size: 20px;
+    }
+
+    .sub input {
+        position: absolute;
+        left: 340px;
+        width: 380px;
+        height: 38px;
+    }
+
+    .sub-2 input {
+        position: absolute;
+        left: 340px;
+        width: 380px;
+        height: 38px;
+    }
+
+    .sub textarea {
+        position: absolute;
+        left: 340px;
+        width: 390px;
+    }
+
+    .submit{
+        position: absolute;
+        left: 44.5%;
+    }
+}

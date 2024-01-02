@@ -1,0 +1,65 @@
+@media only screen and (max-width: 1440px) {
+    .heading-1 {
+        margin-left: 4%;
+    }
+
+    .picture {
+        width: 100%;
+    }
+
+    .pic {
+        width: 25%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .menu {
+        gap: 50px;
+    }
+
+    .heading-1 {
+        font-size: 46px;
+        width: 375px;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    .menu-item a {
+        position: relative;
+        right: 200px;
+    }
+
+    .heading-1{
+        font-size: 36px;
+        width: 262px;
+
+    }
+    .pg-1{
+        font-size: 18px;
+    }
+
+    .heading-2{
+        font-size: 28px;
+    }
+
+    .pg-2{
+        font-size: 18px;
+    }
+
+    .head-2{
+        font-size: 28px;
+    }
+
+    .pg-3{
+        font-size: 18px;
+    }
+
+    .img-box{
+        gap: 32px;
+    }
+
+    .pic{
+        height: 400px   ;
+    }
+}
